@@ -15,4 +15,8 @@ public class D {
     public void MD3(){
         System.out.println("MD3");
     }
+
+    public void MD4(){
+        System.out.println("MD4");
+    }
 }
